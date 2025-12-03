@@ -1,0 +1,18 @@
+# Gunakan image Python yang ringan
+FROM python:3.9-slim
+
+# Set folder kerja di dalam container
+WORKDIR /app
+
+# Install library yang dibutuhkan
+RUN pip install fastapi uvicorn
+
+# Copy kode server dan data JSON ke dalam container
+# Kita akan me-mount folder source_data lewat docker-compose, jadi tidak perlu COPY data di sini
+COPY server_fastapi.py /app/server.py
+
+# Buka port 8000
+EXPOSE 8000
+
+# Perintah untuk menyalakan server saat container hidup
+CMD ["uvicorn", "server:app", "--host", "0.0.0.0", "--port", "8000"]

@@ -1,0 +1,66 @@
+version: '3.8'
+
+services:
+  # ----------------------------------------
+  # SERVICE 1: DATABASE (PostgreSQL)
+  # ----------------------------------------
+  postgres:
+    image: postgres:15
+    container_name: apple_store_postgres
+    environment:
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=admin
+      - POSTGRES_DB=apple_dwh
+    ports:
+      - "5432:5432"
+    volumes:
+      # Menyimpan data database agar tidak hilang saat container dimatikan
+      - postgres_data:/var/lib/postgresql/data
+
+  # ----------------------------------------
+  # SERVICE 2: ORCHESTRATOR (Airflow)
+  # ----------------------------------------
+  airflow:
+    image: apache/airflow:2.7.1
+    container_name: apple_store_airflow
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://admin:admin@postgres/apple_dwh
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+      - _AIRFLOW_DB_UPGRADE=true
+      - _AIRFLOW_WWW_USER_CREATE=true
+      - _AIRFLOW_WWW_USER_USERNAME=admin
+      - _AIRFLOW_WWW_USER_PASSWORD=admin
+    ports:
+      - "8080:8080"
+    volumes:
+      # Mounting folder laptop Anda ke dalam container (PENTING!)
+      - ./scripts:/opt/airflow/dags/scripts
+      - ./source_data:/opt/airflow/source_data
+      - ./datalake:/opt/airflow/datalake
+      - ./requirements.txt:/opt/airflow/requirements.txt
+    command: bash -c "pip install -r /opt/airflow/requirements.txt && airflow db init && airflow users create --username admin --password admin --firstname Admin --lastname User --role Admin --email admin@example.com && airflow webserver & airflow scheduler"
+    depends_on:
+      - postgres
+
+# ----------------------------------------
+# SERVICE 3: MOCK API (FastAPI)
+# ----------------------------------------
+  api_server:
+    build:
+      context: ./scripts/mock_api
+      dockerfile: Dockerfile.api
+    container_name: apple_store_api
+    ports:
+      - "8000:8000"
+    volumes:
+      # PENTING: Mount folder source_data agar server bisa baca master_specs.json
+      # Kita mount ke level yang sama seperti struktur di laptop agar path di script tidak perlu diubah banyak
+      - ./source_data:/source_data
+
+# ----------------------------------------
+# VOLUMES DEFINITION
+# ----------------------------------------
+volumes:
+  postgres_data:
+
