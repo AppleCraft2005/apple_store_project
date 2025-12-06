@@ -1,0 +1,6 @@
+ingestion/
+staging/
+dwh/
+ml/
+sql/
+mock_api/
