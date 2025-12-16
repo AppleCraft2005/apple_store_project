@@ -11,6 +11,7 @@ services:
       - POSTGRES_USER=admin
       - POSTGRES_PASSWORD=admin
       - POSTGRES_DB=apple_dwh
+      - TZ=Asia/Makassar
     ports:
       - "5432:5432"
     volumes:
@@ -31,6 +32,7 @@ services:
       - _AIRFLOW_WWW_USER_CREATE=true
       - _AIRFLOW_WWW_USER_USERNAME=admin
       - _AIRFLOW_WWW_USER_PASSWORD=admin
+      - TZ=Asia/Makassar
     ports:
       - "8080:8080"
     volumes:
@@ -44,19 +46,22 @@ services:
       - postgres
 
 # ----------------------------------------
-# SERVICE 3: MOCK API (FastAPI)
+# SERVICE 4: STREAMLIT DASHBOARD
 # ----------------------------------------
-  api_server:
+  dashboard:
     build:
-      context: ./scripts/mock_api
-      dockerfile: Dockerfile.api
-    container_name: apple_store_api
+      context: ./scripts/dashboard
+      dockerfile: Dockerfile
+    container_name: apple_store_dashboard
     ports:
-      - "8000:8000"
+      - "8501:8501"
     volumes:
-      # PENTING: Mount folder source_data agar server bisa baca master_specs.json
-      # Kita mount ke level yang sama seperti struktur di laptop agar path di script tidak perlu diubah banyak
-      - ./source_data:/source_data
+      # Mount seluruh folder scripts agar app.py bisa baca model ML
+      - ./scripts:/app/scripts
+    depends_on:
+      - postgres
+    networks:
+      - default
 
 # ----------------------------------------
 # VOLUMES DEFINITION

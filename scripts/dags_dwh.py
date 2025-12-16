@@ -6,13 +6,13 @@ from datetime import datetime
 default_args = {
     'owner': 'admin',
     'start_date': datetime(2023, 1, 1),
-    'retries': 1,
+    'retries': 1, 
 }
 
 with DAG(
-    '03_dwh_pipeline',          # Nama yang muncul di Dashboard
+    '03_dwh_pipeline',          
     default_args=default_args, 
-    schedule_interval=None,     # Trigger manual
+    schedule_interval='0 2 * * *',     
     catchup=False,
     tags=['apple_store', 'dwh', 'uas']
 ) as dag:

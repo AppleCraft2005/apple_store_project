@@ -1,0 +1,79 @@
+{
+    "model_type": "XGBoost Regressor (Multi-Category)",
+    "last_updated": "2025-12-10 17:25:04",
+    "overall": {
+        "avg_mae": 36.27
+    },
+    "categories": {
+        "Accessories": {
+            "mae": 46.39,
+            "rmse": 58.68,
+            "mape_pct": 9.34,
+            "avg_sales": 505.68,
+            "accuracy_pct": 90.66
+        },
+        "Audio": {
+            "mae": 45.09,
+            "rmse": 57.3,
+            "mape_pct": 11.63,
+            "avg_sales": 397.1,
+            "accuracy_pct": 88.37
+        },
+        "Desktop": {
+            "mae": 41.15,
+            "rmse": 51.24,
+            "mape_pct": 11.45,
+            "avg_sales": 365.08,
+            "accuracy_pct": 88.55
+        },
+        "Laptop": {
+            "mae": 40.29,
+            "rmse": 51.48,
+            "mape_pct": 11.79,
+            "avg_sales": 355.07,
+            "accuracy_pct": 88.21
+        },
+        "Smart Speaker": {
+            "mae": 16.48,
+            "rmse": 21.41,
+            "mape_pct": 27.59,
+            "avg_sales": 71.97,
+            "accuracy_pct": 72.41
+        },
+        "Smartphone": {
+            "mae": 41.21,
+            "rmse": 52.89,
+            "mape_pct": 9.11,
+            "avg_sales": 464.2,
+            "accuracy_pct": 90.89
+        },
+        "Streaming Device": {
+            "mae": 20.95,
+            "rmse": 26.73,
+            "mape_pct": 19.65,
+            "avg_sales": 112.3,
+            "accuracy_pct": 80.35
+        },
+        "Subscription Service": {
+            "mae": 31.96,
+            "rmse": 40.14,
+            "mape_pct": 13.19,
+            "avg_sales": 250.81,
+            "accuracy_pct": 86.81
+        },
+        "Tablet": {
+            "mae": 39.73,
+            "rmse": 47.2,
+            "mape_pct": 11.31,
+            "avg_sales": 365.37,
+            "accuracy_pct": 88.69
+        },
+        "Wearable": {
+            "mae": 39.43,
+            "rmse": 50.22,
+            "mape_pct": 12.24,
+            "avg_sales": 328.2,
+            "accuracy_pct": 87.76
+        }
+    }
+}

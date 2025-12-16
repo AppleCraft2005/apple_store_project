@@ -12,7 +12,7 @@ default_args = {
 with DAG(
     '02_staging_pipeline',      # Nama yang muncul di Dashboard
     default_args=default_args, 
-    schedule_interval=None,     # Trigger manual (atau ganti '@daily' nanti)
+    schedule_interval='30 1 * * *',     # Trigger manual (atau ganti '@daily' nanti)
     catchup=False,
     tags=['apple_store', 'staging', 'uas']
 ) as dag:

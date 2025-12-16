@@ -1,0 +1,62 @@
+{
+    "model_type": "RandomForest-BestTuned",
+    "last_updated": "2025-12-09 10:51:18",
+    "accuracy": 0.5156666666666667,
+    "roc_auc": 0.5213842383333334,
+    "confusion_matrix": [
+        [
+            15650,
+            14350
+        ],
+        [
+            14710,
+            15290
+        ]
+    ],
+    "best_params": {
+        "rf__n_estimators": 150,
+        "rf__min_samples_split": 5,
+        "rf__min_samples_leaf": 1,
+        "rf__max_features": "log2",
+        "rf__max_depth": null
+    },
+    "classification_report": {
+        "0": {
+            "precision": 0.5154808959156785,
+            "recall": 0.5216666666666666,
+            "f1-score": 0.5185553346587144,
+            "support": 30000.0
+        },
+        "1": {
+            "precision": 0.5158569500674763,
+            "recall": 0.5096666666666667,
+            "f1-score": 0.5127431254191818,
+            "support": 30000.0
+        },
+        "accuracy": 0.5156666666666667,
+        "macro avg": {
+            "precision": 0.5156689229915774,
+            "recall": 0.5156666666666667,
+            "f1-score": 0.5156492300389481,
+            "support": 60000.0
+        },
+        "weighted avg": {
+            "precision": 0.5156689229915774,
+            "recall": 0.5156666666666667,
+            "f1-score": 0.515649230038948,
+            "support": 60000.0
+        }
+    },
+    "top_features": {
+        "price": 0.8372990700604848,
+        "category_name_Audio": 0.02441329881722901,
+        "category_name_Desktop": 0.020956008756183194,
+        "category_name_Tablet": 0.016240909879990894,
+        "category_name_Subscription Service": 0.01573054159117337,
+        "category_name_Wearable": 0.015369495943233273,
+        "category_name_Accessories": 0.015086704413743324,
+        "category_name_Smartphone": 0.015048476110949022,
+        "category_name_Smart Speaker": 0.014202794508234442,
+        "category_name_Streaming Device": 0.013309541705145962
+    }
+}

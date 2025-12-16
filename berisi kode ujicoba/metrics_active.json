@@ -1,0 +1,43 @@
+{
+    "model_type": "LightGBM",
+    "last_updated": "2025-12-09 11:07:59",
+    "performance": {
+        "accuracy": 0.4990833333333333,
+        "precision_class_1": 0.4936447956028856,
+        "recall_class_1": 0.48408287013643253,
+        "f1_score_class_1": 0.4888170762819968,
+        "support_class_1": 5937.0
+    },
+    "confusion_matrix": [
+        [
+            3115,
+            2948
+        ],
+        [
+            3063,
+            2874
+        ]
+    ],
+    "hyperparameters": {
+        "boosting_type": "gbdt",
+        "class_weight": "balanced",
+        "colsample_bytree": 1.0,
+        "importance_type": "split",
+        "learning_rate": 0.1,
+        "max_depth": -1,
+        "min_child_samples": 20,
+        "min_child_weight": 0.001,
+        "min_split_gain": 0.0,
+        "n_estimators": 100,
+        "n_jobs": null,
+        "num_leaves": 31,
+        "objective": null,
+        "random_state": 42,
+        "reg_alpha": 0.0,
+        "reg_lambda": 0.0,
+        "subsample": 1.0,
+        "subsample_for_bin": 200000,
+        "subsample_freq": 0,
+        "verbose": -1
+    }
+}

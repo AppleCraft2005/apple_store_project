@@ -1,0 +1,1801 @@
+date,category,predicted_units
+2024-11-13,Accessories,472
+2024-11-14,Accessories,499
+2024-11-15,Accessories,489
+2024-11-16,Accessories,515
+2024-11-17,Accessories,468
+2024-11-18,Accessories,436
+2024-11-19,Accessories,471
+2024-11-20,Accessories,510
+2024-11-21,Accessories,491
+2024-11-22,Accessories,489
+2024-11-23,Accessories,504
+2024-11-24,Accessories,473
+2024-11-25,Accessories,499
+2024-11-26,Accessories,471
+2024-11-27,Accessories,548
+2024-11-28,Accessories,460
+2024-11-29,Accessories,496
+2024-11-30,Accessories,503
+2024-12-01,Accessories,483
+2024-12-02,Accessories,532
+2024-12-03,Accessories,507
+2024-12-04,Accessories,476
+2024-12-05,Accessories,515
+2024-12-06,Accessories,503
+2024-12-07,Accessories,487
+2024-12-08,Accessories,508
+2024-12-09,Accessories,468
+2024-12-10,Accessories,537
+2024-12-11,Accessories,488
+2024-12-12,Accessories,500
+2024-12-13,Accessories,476
+2024-12-14,Accessories,534
+2024-12-15,Accessories,499
+2024-12-16,Accessories,447
+2024-12-17,Accessories,482
+2024-12-18,Accessories,527
+2024-12-19,Accessories,521
+2024-12-20,Accessories,501
+2024-12-21,Accessories,511
+2024-12-22,Accessories,465
+2024-12-23,Accessories,510
+2024-12-24,Accessories,513
+2024-12-25,Accessories,529
+2024-12-26,Accessories,523
+2024-12-27,Accessories,570
+2024-12-28,Accessories,520
+2024-12-29,Accessories,575
+2024-12-30,Accessories,483
+2024-12-31,Accessories,487
+2025-01-01,Accessories,539
+2025-01-02,Accessories,494
+2025-01-03,Accessories,526
+2025-01-04,Accessories,483
+2025-01-05,Accessories,484
+2025-01-06,Accessories,498
+2025-01-07,Accessories,487
+2025-01-08,Accessories,485
+2025-01-09,Accessories,502
+2025-01-10,Accessories,512
+2025-01-11,Accessories,522
+2025-01-12,Accessories,496
+2025-01-13,Accessories,483
+2025-01-14,Accessories,502
+2025-01-15,Accessories,478
+2025-01-16,Accessories,485
+2025-01-17,Accessories,488
+2025-01-18,Accessories,512
+2025-01-19,Accessories,499
+2025-01-20,Accessories,498
+2025-01-21,Accessories,501
+2025-01-22,Accessories,521
+2025-01-23,Accessories,458
+2025-01-24,Accessories,483
+2025-01-25,Accessories,488
+2025-01-26,Accessories,521
+2025-01-27,Accessories,540
+2025-01-28,Accessories,495
+2025-01-29,Accessories,462
+2025-01-30,Accessories,497
+2025-01-31,Accessories,468
+2025-02-01,Accessories,491
+2025-02-02,Accessories,499
+2025-02-03,Accessories,491
+2025-02-04,Accessories,503
+2025-02-05,Accessories,559
+2025-02-06,Accessories,452
+2025-02-07,Accessories,496
+2025-02-08,Accessories,520
+2025-02-09,Accessories,527
+2025-02-10,Accessories,489
+2025-02-11,Accessories,515
+2025-02-12,Accessories,501
+2025-02-13,Accessories,463
+2025-02-14,Accessories,516
+2025-02-15,Accessories,512
+2025-02-16,Accessories,522
+2025-02-17,Accessories,500
+2025-02-18,Accessories,498
+2025-02-19,Accessories,484
+2025-02-20,Accessories,480
+2025-02-21,Accessories,498
+2025-02-22,Accessories,519
+2025-02-23,Accessories,482
+2025-02-24,Accessories,503
+2025-02-25,Accessories,519
+2025-02-26,Accessories,503
+2025-02-27,Accessories,478
+2025-02-28,Accessories,495
+2025-03-01,Accessories,485
+2025-03-02,Accessories,505
+2025-03-03,Accessories,509
+2025-03-04,Accessories,525
+2025-03-05,Accessories,480
+2025-03-06,Accessories,497
+2025-03-07,Accessories,476
+2025-03-08,Accessories,495
+2025-03-09,Accessories,506
+2025-03-10,Accessories,522
+2025-03-11,Accessories,514
+2025-03-12,Accessories,512
+2025-03-13,Accessories,521
+2025-03-14,Accessories,513
+2025-03-15,Accessories,516
+2025-03-16,Accessories,530
+2025-03-17,Accessories,516
+2025-03-18,Accessories,539
+2025-03-19,Accessories,530
+2025-03-20,Accessories,517
+2025-03-21,Accessories,510
+2025-03-22,Accessories,529
+2025-03-23,Accessories,516
+2025-03-24,Accessories,531
+2025-03-25,Accessories,523
+2025-03-26,Accessories,538
+2025-03-27,Accessories,519
+2025-03-28,Accessories,511
+2025-03-29,Accessories,533
+2025-03-30,Accessories,509
+2025-03-31,Accessories,511
+2025-04-01,Accessories,530
+2025-04-02,Accessories,525
+2025-04-03,Accessories,513
+2025-04-04,Accessories,549
+2025-04-05,Accessories,512
+2025-04-06,Accessories,520
+2025-04-07,Accessories,500
+2025-04-08,Accessories,522
+2025-04-09,Accessories,535
+2025-04-10,Accessories,543
+2025-04-11,Accessories,563
+2025-04-12,Accessories,529
+2025-04-13,Accessories,511
+2025-04-14,Accessories,553
+2025-04-15,Accessories,581
+2025-04-16,Accessories,498
+2025-04-17,Accessories,537
+2025-04-18,Accessories,561
+2025-04-19,Accessories,545
+2025-04-20,Accessories,552
+2025-04-21,Accessories,549
+2025-04-22,Accessories,537
+2025-04-23,Accessories,540
+2025-04-24,Accessories,521
+2025-04-25,Accessories,524
+2025-04-26,Accessories,544
+2025-04-27,Accessories,569
+2025-04-28,Accessories,476
+2025-04-29,Accessories,568
+2025-04-30,Accessories,514
+2025-05-01,Accessories,515
+2025-05-02,Accessories,513
+2025-05-03,Accessories,522
+2025-05-04,Accessories,514
+2025-05-05,Accessories,519
+2025-05-06,Accessories,522
+2025-05-07,Accessories,502
+2025-05-08,Accessories,548
+2025-05-09,Accessories,486
+2025-05-10,Accessories,531
+2025-05-11,Accessories,525
+2024-11-13,Audio,385
+2024-11-14,Audio,410
+2024-11-15,Audio,372
+2024-11-16,Audio,385
+2024-11-17,Audio,414
+2024-11-18,Audio,408
+2024-11-19,Audio,412
+2024-11-20,Audio,389
+2024-11-21,Audio,349
+2024-11-22,Audio,389
+2024-11-23,Audio,363
+2024-11-24,Audio,389
+2024-11-25,Audio,392
+2024-11-26,Audio,370
+2024-11-27,Audio,389
+2024-11-28,Audio,363
+2024-11-29,Audio,310
+2024-11-30,Audio,365
+2024-12-01,Audio,370
+2024-12-02,Audio,411
+2024-12-03,Audio,397
+2024-12-04,Audio,416
+2024-12-05,Audio,371
+2024-12-06,Audio,380
+2024-12-07,Audio,361
+2024-12-08,Audio,375
+2024-12-09,Audio,390
+2024-12-10,Audio,415
+2024-12-11,Audio,367
+2024-12-12,Audio,403
+2024-12-13,Audio,393
+2024-12-14,Audio,393
+2024-12-15,Audio,397
+2024-12-16,Audio,430
+2024-12-17,Audio,365
+2024-12-18,Audio,412
+2024-12-19,Audio,362
+2024-12-20,Audio,402
+2024-12-21,Audio,377
+2024-12-22,Audio,382
+2024-12-23,Audio,405
+2024-12-24,Audio,405
+2024-12-25,Audio,396
+2024-12-26,Audio,390
+2024-12-27,Audio,368
+2024-12-28,Audio,389
+2024-12-29,Audio,389
+2024-12-30,Audio,406
+2024-12-31,Audio,405
+2025-01-01,Audio,387
+2025-01-02,Audio,360
+2025-01-03,Audio,374
+2025-01-04,Audio,393
+2025-01-05,Audio,402
+2025-01-06,Audio,393
+2025-01-07,Audio,381
+2025-01-08,Audio,403
+2025-01-09,Audio,361
+2025-01-10,Audio,356
+2025-01-11,Audio,452
+2025-01-12,Audio,384
+2025-01-13,Audio,395
+2025-01-14,Audio,391
+2025-01-15,Audio,384
+2025-01-16,Audio,380
+2025-01-17,Audio,379
+2025-01-18,Audio,414
+2025-01-19,Audio,412
+2025-01-20,Audio,402
+2025-01-21,Audio,421
+2025-01-22,Audio,352
+2025-01-23,Audio,375
+2025-01-24,Audio,406
+2025-01-25,Audio,400
+2025-01-26,Audio,392
+2025-01-27,Audio,395
+2025-01-28,Audio,382
+2025-01-29,Audio,395
+2025-01-30,Audio,392
+2025-01-31,Audio,393
+2025-02-01,Audio,415
+2025-02-02,Audio,396
+2025-02-03,Audio,406
+2025-02-04,Audio,403
+2025-02-05,Audio,400
+2025-02-06,Audio,408
+2025-02-07,Audio,377
+2025-02-08,Audio,410
+2025-02-09,Audio,401
+2025-02-10,Audio,419
+2025-02-11,Audio,405
+2025-02-12,Audio,417
+2025-02-13,Audio,417
+2025-02-14,Audio,419
+2025-02-15,Audio,424
+2025-02-16,Audio,419
+2025-02-17,Audio,439
+2025-02-18,Audio,416
+2025-02-19,Audio,454
+2025-02-20,Audio,426
+2025-02-21,Audio,429
+2025-02-22,Audio,446
+2025-02-23,Audio,388
+2025-02-24,Audio,405
+2025-02-25,Audio,390
+2025-02-26,Audio,435
+2025-02-27,Audio,409
+2025-02-28,Audio,434
+2025-03-01,Audio,415
+2025-03-02,Audio,426
+2025-03-03,Audio,419
+2025-03-04,Audio,426
+2025-03-05,Audio,433
+2025-03-06,Audio,440
+2025-03-07,Audio,424
+2025-03-08,Audio,429
+2025-03-09,Audio,416
+2025-03-10,Audio,436
+2025-03-11,Audio,408
+2025-03-12,Audio,403
+2025-03-13,Audio,397
+2025-03-14,Audio,408
+2025-03-15,Audio,410
+2025-03-16,Audio,402
+2025-03-17,Audio,406
+2025-03-18,Audio,398
+2025-03-19,Audio,376
+2025-03-20,Audio,395
+2025-03-21,Audio,366
+2025-03-22,Audio,373
+2025-03-23,Audio,363
+2025-03-24,Audio,381
+2025-03-25,Audio,397
+2025-03-26,Audio,380
+2025-03-27,Audio,383
+2025-03-28,Audio,385
+2025-03-29,Audio,366
+2025-03-30,Audio,371
+2025-03-31,Audio,352
+2025-04-01,Audio,367
+2025-04-02,Audio,368
+2025-04-03,Audio,350
+2025-04-04,Audio,360
+2025-04-05,Audio,374
+2025-04-06,Audio,374
+2025-04-07,Audio,377
+2025-04-08,Audio,324
+2025-04-09,Audio,359
+2025-04-10,Audio,348
+2025-04-11,Audio,345
+2025-04-12,Audio,384
+2025-04-13,Audio,349
+2025-04-14,Audio,397
+2025-04-15,Audio,386
+2025-04-16,Audio,339
+2025-04-17,Audio,349
+2025-04-18,Audio,359
+2025-04-19,Audio,403
+2025-04-20,Audio,371
+2025-04-21,Audio,366
+2025-04-22,Audio,329
+2025-04-23,Audio,353
+2025-04-24,Audio,364
+2025-04-25,Audio,343
+2025-04-26,Audio,370
+2025-04-27,Audio,418
+2025-04-28,Audio,392
+2025-04-29,Audio,364
+2025-04-30,Audio,372
+2025-05-01,Audio,361
+2025-05-02,Audio,344
+2025-05-03,Audio,396
+2025-05-04,Audio,373
+2025-05-05,Audio,379
+2025-05-06,Audio,344
+2025-05-07,Audio,389
+2025-05-08,Audio,340
+2025-05-09,Audio,349
+2025-05-10,Audio,364
+2025-05-11,Audio,369
+2024-11-13,Desktop,408
+2024-11-14,Desktop,379
+2024-11-15,Desktop,374
+2024-11-16,Desktop,370
+2024-11-17,Desktop,390
+2024-11-18,Desktop,427
+2024-11-19,Desktop,395
+2024-11-20,Desktop,415
+2024-11-21,Desktop,371
+2024-11-22,Desktop,410
+2024-11-23,Desktop,356
+2024-11-24,Desktop,388
+2024-11-25,Desktop,426
+2024-11-26,Desktop,401
+2024-11-27,Desktop,382
+2024-11-28,Desktop,411
+2024-11-29,Desktop,372
+2024-11-30,Desktop,329
+2024-12-01,Desktop,371
+2024-12-02,Desktop,370
+2024-12-03,Desktop,375
+2024-12-04,Desktop,340
+2024-12-05,Desktop,322
+2024-12-06,Desktop,371
+2024-12-07,Desktop,331
+2024-12-08,Desktop,357
+2024-12-09,Desktop,372
+2024-12-10,Desktop,347
+2024-12-11,Desktop,369
+2024-12-12,Desktop,331
+2024-12-13,Desktop,358
+2024-12-14,Desktop,354
+2024-12-15,Desktop,362
+2024-12-16,Desktop,363
+2024-12-17,Desktop,353
+2024-12-18,Desktop,370
+2024-12-19,Desktop,335
+2024-12-20,Desktop,375
+2024-12-21,Desktop,350
+2024-12-22,Desktop,333
+2024-12-23,Desktop,372
+2024-12-24,Desktop,353
+2024-12-25,Desktop,373
+2024-12-26,Desktop,345
+2024-12-27,Desktop,335
+2024-12-28,Desktop,368
+2024-12-29,Desktop,343
+2024-12-30,Desktop,320
+2024-12-31,Desktop,305
+2025-01-01,Desktop,363
+2025-01-02,Desktop,322
+2025-01-03,Desktop,384
+2025-01-04,Desktop,364
+2025-01-05,Desktop,350
+2025-01-06,Desktop,337
+2025-01-07,Desktop,360
+2025-01-08,Desktop,343
+2025-01-09,Desktop,330
+2025-01-10,Desktop,366
+2025-01-11,Desktop,344
+2025-01-12,Desktop,354
+2025-01-13,Desktop,347
+2025-01-14,Desktop,359
+2025-01-15,Desktop,347
+2025-01-16,Desktop,383
+2025-01-17,Desktop,336
+2025-01-18,Desktop,353
+2025-01-19,Desktop,387
+2025-01-20,Desktop,336
+2025-01-21,Desktop,379
+2025-01-22,Desktop,346
+2025-01-23,Desktop,357
+2025-01-24,Desktop,352
+2025-01-25,Desktop,344
+2025-01-26,Desktop,344
+2025-01-27,Desktop,358
+2025-01-28,Desktop,333
+2025-01-29,Desktop,299
+2025-01-30,Desktop,322
+2025-01-31,Desktop,383
+2025-02-01,Desktop,366
+2025-02-02,Desktop,327
+2025-02-03,Desktop,327
+2025-02-04,Desktop,330
+2025-02-05,Desktop,344
+2025-02-06,Desktop,371
+2025-02-07,Desktop,343
+2025-02-08,Desktop,333
+2025-02-09,Desktop,345
+2025-02-10,Desktop,292
+2025-02-11,Desktop,350
+2025-02-12,Desktop,351
+2025-02-13,Desktop,382
+2025-02-14,Desktop,349
+2025-02-15,Desktop,351
+2025-02-16,Desktop,345
+2025-02-17,Desktop,241
+2025-02-18,Desktop,370
+2025-02-19,Desktop,322
+2025-02-20,Desktop,317
+2025-02-21,Desktop,329
+2025-02-22,Desktop,332
+2025-02-23,Desktop,290
+2025-02-24,Desktop,293
+2025-02-25,Desktop,285
+2025-02-26,Desktop,309
+2025-02-27,Desktop,311
+2025-02-28,Desktop,326
+2025-03-01,Desktop,368
+2025-03-02,Desktop,247
+2025-03-03,Desktop,284
+2025-03-04,Desktop,290
+2025-03-05,Desktop,309
+2025-03-06,Desktop,317
+2025-03-07,Desktop,337
+2025-03-08,Desktop,321
+2025-03-09,Desktop,357
+2025-03-10,Desktop,241
+2025-03-11,Desktop,309
+2025-03-12,Desktop,300
+2025-03-13,Desktop,313
+2025-03-14,Desktop,323
+2025-03-15,Desktop,363
+2025-03-16,Desktop,253
+2025-03-17,Desktop,291
+2025-03-18,Desktop,282
+2025-03-19,Desktop,310
+2025-03-20,Desktop,314
+2025-03-21,Desktop,347
+2025-03-22,Desktop,295
+2025-03-23,Desktop,352
+2025-03-24,Desktop,242
+2025-03-25,Desktop,309
+2025-03-26,Desktop,300
+2025-03-27,Desktop,313
+2025-03-28,Desktop,323
+2025-03-29,Desktop,363
+2025-03-30,Desktop,253
+2025-03-31,Desktop,291
+2025-04-01,Desktop,278
+2025-04-02,Desktop,324
+2025-04-03,Desktop,313
+2025-04-04,Desktop,319
+2025-04-05,Desktop,369
+2025-04-06,Desktop,263
+2025-04-07,Desktop,324
+2025-04-08,Desktop,266
+2025-04-09,Desktop,347
+2025-04-10,Desktop,284
+2025-04-11,Desktop,321
+2025-04-12,Desktop,352
+2025-04-13,Desktop,276
+2025-04-14,Desktop,304
+2025-04-15,Desktop,276
+2025-04-16,Desktop,322
+2025-04-17,Desktop,313
+2025-04-18,Desktop,319
+2025-04-19,Desktop,369
+2025-04-20,Desktop,263
+2025-04-21,Desktop,324
+2025-04-22,Desktop,266
+2025-04-23,Desktop,347
+2025-04-24,Desktop,284
+2025-04-25,Desktop,321
+2025-04-26,Desktop,352
+2025-04-27,Desktop,276
+2025-04-28,Desktop,304
+2025-04-29,Desktop,276
+2025-04-30,Desktop,322
+2025-05-01,Desktop,313
+2025-05-02,Desktop,316
+2025-05-03,Desktop,363
+2025-05-04,Desktop,246
+2025-05-05,Desktop,304
+2025-05-06,Desktop,276
+2025-05-07,Desktop,322
+2025-05-08,Desktop,313
+2025-05-09,Desktop,316
+2025-05-10,Desktop,363
+2025-05-11,Desktop,246
+2024-11-13,Laptop,330
+2024-11-14,Laptop,311
+2024-11-15,Laptop,343
+2024-11-16,Laptop,315
+2024-11-17,Laptop,326
+2024-11-18,Laptop,340
+2024-11-19,Laptop,339
+2024-11-20,Laptop,339
+2024-11-21,Laptop,339
+2024-11-22,Laptop,339
+2024-11-23,Laptop,317
+2024-11-24,Laptop,365
+2024-11-25,Laptop,349
+2024-11-26,Laptop,340
+2024-11-27,Laptop,336
+2024-11-28,Laptop,349
+2024-11-29,Laptop,353
+2024-11-30,Laptop,339
+2024-12-01,Laptop,355
+2024-12-02,Laptop,327
+2024-12-03,Laptop,337
+2024-12-04,Laptop,360
+2024-12-05,Laptop,329
+2024-12-06,Laptop,334
+2024-12-07,Laptop,358
+2024-12-08,Laptop,421
+2024-12-09,Laptop,334
+2024-12-10,Laptop,333
+2024-12-11,Laptop,365
+2024-12-12,Laptop,359
+2024-12-13,Laptop,351
+2024-12-14,Laptop,373
+2024-12-15,Laptop,370
+2024-12-16,Laptop,340
+2024-12-17,Laptop,368
+2024-12-18,Laptop,350
+2024-12-19,Laptop,362
+2024-12-20,Laptop,353
+2024-12-21,Laptop,353
+2024-12-22,Laptop,342
+2024-12-23,Laptop,397
+2024-12-24,Laptop,360
+2024-12-25,Laptop,347
+2024-12-26,Laptop,377
+2024-12-27,Laptop,347
+2024-12-28,Laptop,383
+2024-12-29,Laptop,321
+2024-12-30,Laptop,396
+2024-12-31,Laptop,401
+2025-01-01,Laptop,348
+2025-01-02,Laptop,365
+2025-01-03,Laptop,342
+2025-01-04,Laptop,404
+2025-01-05,Laptop,360
+2025-01-06,Laptop,356
+2025-01-07,Laptop,402
+2025-01-08,Laptop,348
+2025-01-09,Laptop,365
+2025-01-10,Laptop,349
+2025-01-11,Laptop,381
+2025-01-12,Laptop,320
+2025-01-13,Laptop,377
+2025-01-14,Laptop,339
+2025-01-15,Laptop,402
+2025-01-16,Laptop,357
+2025-01-17,Laptop,355
+2025-01-18,Laptop,369
+2025-01-19,Laptop,343
+2025-01-20,Laptop,373
+2025-01-21,Laptop,341
+2025-01-22,Laptop,393
+2025-01-23,Laptop,355
+2025-01-24,Laptop,367
+2025-01-25,Laptop,353
+2025-01-26,Laptop,389
+2025-01-27,Laptop,344
+2025-01-28,Laptop,376
+2025-01-29,Laptop,403
+2025-01-30,Laptop,348
+2025-01-31,Laptop,395
+2025-02-01,Laptop,366
+2025-02-02,Laptop,382
+2025-02-03,Laptop,363
+2025-02-04,Laptop,409
+2025-02-05,Laptop,333
+2025-02-06,Laptop,384
+2025-02-07,Laptop,375
+2025-02-08,Laptop,389
+2025-02-09,Laptop,387
+2025-02-10,Laptop,364
+2025-02-11,Laptop,390
+2025-02-12,Laptop,354
+2025-02-13,Laptop,397
+2025-02-14,Laptop,358
+2025-02-15,Laptop,380
+2025-02-16,Laptop,399
+2025-02-17,Laptop,382
+2025-02-18,Laptop,414
+2025-02-19,Laptop,358
+2025-02-20,Laptop,418
+2025-02-21,Laptop,380
+2025-02-22,Laptop,380
+2025-02-23,Laptop,385
+2025-02-24,Laptop,375
+2025-02-25,Laptop,384
+2025-02-26,Laptop,409
+2025-02-27,Laptop,367
+2025-02-28,Laptop,411
+2025-03-01,Laptop,365
+2025-03-02,Laptop,380
+2025-03-03,Laptop,391
+2025-03-04,Laptop,382
+2025-03-05,Laptop,372
+2025-03-06,Laptop,391
+2025-03-07,Laptop,407
+2025-03-08,Laptop,375
+2025-03-09,Laptop,365
+2025-03-10,Laptop,375
+2025-03-11,Laptop,414
+2025-03-12,Laptop,367
+2025-03-13,Laptop,392
+2025-03-14,Laptop,410
+2025-03-15,Laptop,336
+2025-03-16,Laptop,373
+2025-03-17,Laptop,409
+2025-03-18,Laptop,372
+2025-03-19,Laptop,364
+2025-03-20,Laptop,369
+2025-03-21,Laptop,365
+2025-03-22,Laptop,369
+2025-03-23,Laptop,375
+2025-03-24,Laptop,352
+2025-03-25,Laptop,418
+2025-03-26,Laptop,391
+2025-03-27,Laptop,377
+2025-03-28,Laptop,386
+2025-03-29,Laptop,401
+2025-03-30,Laptop,358
+2025-03-31,Laptop,363
+2025-04-01,Laptop,383
+2025-04-02,Laptop,381
+2025-04-03,Laptop,376
+2025-04-04,Laptop,392
+2025-04-05,Laptop,356
+2025-04-06,Laptop,385
+2025-04-07,Laptop,344
+2025-04-08,Laptop,373
+2025-04-09,Laptop,377
+2025-04-10,Laptop,378
+2025-04-11,Laptop,362
+2025-04-12,Laptop,355
+2025-04-13,Laptop,404
+2025-04-14,Laptop,376
+2025-04-15,Laptop,373
+2025-04-16,Laptop,376
+2025-04-17,Laptop,377
+2025-04-18,Laptop,383
+2025-04-19,Laptop,362
+2025-04-20,Laptop,359
+2025-04-21,Laptop,364
+2025-04-22,Laptop,355
+2025-04-23,Laptop,378
+2025-04-24,Laptop,356
+2025-04-25,Laptop,393
+2025-04-26,Laptop,359
+2025-04-27,Laptop,374
+2025-04-28,Laptop,387
+2025-04-29,Laptop,372
+2025-04-30,Laptop,369
+2025-05-01,Laptop,368
+2025-05-02,Laptop,363
+2025-05-03,Laptop,342
+2025-05-04,Laptop,395
+2025-05-05,Laptop,369
+2025-05-06,Laptop,364
+2025-05-07,Laptop,359
+2025-05-08,Laptop,359
+2025-05-09,Laptop,380
+2025-05-10,Laptop,336
+2025-05-11,Laptop,334
+2024-11-13,Smart Speaker,80
+2024-11-14,Smart Speaker,77
+2024-11-15,Smart Speaker,83
+2024-11-16,Smart Speaker,76
+2024-11-17,Smart Speaker,75
+2024-11-18,Smart Speaker,72
+2024-11-19,Smart Speaker,91
+2024-11-20,Smart Speaker,72
+2024-11-21,Smart Speaker,93
+2024-11-22,Smart Speaker,87
+2024-11-23,Smart Speaker,81
+2024-11-24,Smart Speaker,66
+2024-11-25,Smart Speaker,80
+2024-11-26,Smart Speaker,86
+2024-11-27,Smart Speaker,79
+2024-11-28,Smart Speaker,78
+2024-11-29,Smart Speaker,78
+2024-11-30,Smart Speaker,81
+2024-12-01,Smart Speaker,57
+2024-12-02,Smart Speaker,91
+2024-12-03,Smart Speaker,76
+2024-12-04,Smart Speaker,71
+2024-12-05,Smart Speaker,77
+2024-12-06,Smart Speaker,74
+2024-12-07,Smart Speaker,62
+2024-12-08,Smart Speaker,70
+2024-12-09,Smart Speaker,83
+2024-12-10,Smart Speaker,77
+2024-12-11,Smart Speaker,78
+2024-12-12,Smart Speaker,87
+2024-12-13,Smart Speaker,81
+2024-12-14,Smart Speaker,53
+2024-12-15,Smart Speaker,87
+2024-12-16,Smart Speaker,67
+2024-12-17,Smart Speaker,84
+2024-12-18,Smart Speaker,75
+2024-12-19,Smart Speaker,84
+2024-12-20,Smart Speaker,92
+2024-12-21,Smart Speaker,70
+2024-12-22,Smart Speaker,60
+2024-12-23,Smart Speaker,83
+2024-12-24,Smart Speaker,80
+2024-12-25,Smart Speaker,75
+2024-12-26,Smart Speaker,80
+2024-12-27,Smart Speaker,61
+2024-12-28,Smart Speaker,68
+2024-12-29,Smart Speaker,75
+2024-12-30,Smart Speaker,76
+2024-12-31,Smart Speaker,68
+2025-01-01,Smart Speaker,66
+2025-01-02,Smart Speaker,63
+2025-01-03,Smart Speaker,95
+2025-01-04,Smart Speaker,76
+2025-01-05,Smart Speaker,73
+2025-01-06,Smart Speaker,64
+2025-01-07,Smart Speaker,91
+2025-01-08,Smart Speaker,52
+2025-01-09,Smart Speaker,84
+2025-01-10,Smart Speaker,101
+2025-01-11,Smart Speaker,86
+2025-01-12,Smart Speaker,70
+2025-01-13,Smart Speaker,98
+2025-01-14,Smart Speaker,71
+2025-01-15,Smart Speaker,65
+2025-01-16,Smart Speaker,77
+2025-01-17,Smart Speaker,80
+2025-01-18,Smart Speaker,81
+2025-01-19,Smart Speaker,79
+2025-01-20,Smart Speaker,93
+2025-01-21,Smart Speaker,85
+2025-01-22,Smart Speaker,81
+2025-01-23,Smart Speaker,80
+2025-01-24,Smart Speaker,79
+2025-01-25,Smart Speaker,70
+2025-01-26,Smart Speaker,79
+2025-01-27,Smart Speaker,98
+2025-01-28,Smart Speaker,85
+2025-01-29,Smart Speaker,95
+2025-01-30,Smart Speaker,85
+2025-01-31,Smart Speaker,82
+2025-02-01,Smart Speaker,100
+2025-02-02,Smart Speaker,115
+2025-02-03,Smart Speaker,78
+2025-02-04,Smart Speaker,92
+2025-02-05,Smart Speaker,109
+2025-02-06,Smart Speaker,99
+2025-02-07,Smart Speaker,112
+2025-02-08,Smart Speaker,108
+2025-02-09,Smart Speaker,96
+2025-02-10,Smart Speaker,114
+2025-02-11,Smart Speaker,89
+2025-02-12,Smart Speaker,93
+2025-02-13,Smart Speaker,111
+2025-02-14,Smart Speaker,99
+2025-02-15,Smart Speaker,110
+2025-02-16,Smart Speaker,104
+2025-02-17,Smart Speaker,97
+2025-02-18,Smart Speaker,113
+2025-02-19,Smart Speaker,97
+2025-02-20,Smart Speaker,116
+2025-02-21,Smart Speaker,103
+2025-02-22,Smart Speaker,99
+2025-02-23,Smart Speaker,104
+2025-02-24,Smart Speaker,97
+2025-02-25,Smart Speaker,100
+2025-02-26,Smart Speaker,99
+2025-02-27,Smart Speaker,109
+2025-02-28,Smart Speaker,105
+2025-03-01,Smart Speaker,96
+2025-03-02,Smart Speaker,116
+2025-03-03,Smart Speaker,77
+2025-03-04,Smart Speaker,124
+2025-03-05,Smart Speaker,67
+2025-03-06,Smart Speaker,116
+2025-03-07,Smart Speaker,112
+2025-03-08,Smart Speaker,106
+2025-03-09,Smart Speaker,93
+2025-03-10,Smart Speaker,110
+2025-03-11,Smart Speaker,89
+2025-03-12,Smart Speaker,98
+2025-03-13,Smart Speaker,99
+2025-03-14,Smart Speaker,107
+2025-03-15,Smart Speaker,104
+2025-03-16,Smart Speaker,106
+2025-03-17,Smart Speaker,86
+2025-03-18,Smart Speaker,115
+2025-03-19,Smart Speaker,98
+2025-03-20,Smart Speaker,99
+2025-03-21,Smart Speaker,96
+2025-03-22,Smart Speaker,113
+2025-03-23,Smart Speaker,96
+2025-03-24,Smart Speaker,112
+2025-03-25,Smart Speaker,86
+2025-03-26,Smart Speaker,107
+2025-03-27,Smart Speaker,101
+2025-03-28,Smart Speaker,108
+2025-03-29,Smart Speaker,95
+2025-03-30,Smart Speaker,113
+2025-03-31,Smart Speaker,85
+2025-04-01,Smart Speaker,110
+2025-04-02,Smart Speaker,98
+2025-04-03,Smart Speaker,107
+2025-04-04,Smart Speaker,87
+2025-04-05,Smart Speaker,102
+2025-04-06,Smart Speaker,97
+2025-04-07,Smart Speaker,107
+2025-04-08,Smart Speaker,99
+2025-04-09,Smart Speaker,99
+2025-04-10,Smart Speaker,107
+2025-04-11,Smart Speaker,98
+2025-04-12,Smart Speaker,100
+2025-04-13,Smart Speaker,99
+2025-04-14,Smart Speaker,99
+2025-04-15,Smart Speaker,97
+2025-04-16,Smart Speaker,108
+2025-04-17,Smart Speaker,91
+2025-04-18,Smart Speaker,113
+2025-04-19,Smart Speaker,111
+2025-04-20,Smart Speaker,104
+2025-04-21,Smart Speaker,94
+2025-04-22,Smart Speaker,84
+2025-04-23,Smart Speaker,103
+2025-04-24,Smart Speaker,100
+2025-04-25,Smart Speaker,102
+2025-04-26,Smart Speaker,97
+2025-04-27,Smart Speaker,109
+2025-04-28,Smart Speaker,94
+2025-04-29,Smart Speaker,98
+2025-04-30,Smart Speaker,99
+2025-05-01,Smart Speaker,106
+2025-05-02,Smart Speaker,99
+2025-05-03,Smart Speaker,100
+2025-05-04,Smart Speaker,98
+2025-05-05,Smart Speaker,99
+2025-05-06,Smart Speaker,97
+2025-05-07,Smart Speaker,107
+2025-05-08,Smart Speaker,99
+2025-05-09,Smart Speaker,102
+2025-05-10,Smart Speaker,97
+2025-05-11,Smart Speaker,108
+2024-11-13,Smartphone,447
+2024-11-14,Smartphone,477
+2024-11-15,Smartphone,455
+2024-11-16,Smartphone,460
+2024-11-17,Smartphone,444
+2024-11-18,Smartphone,446
+2024-11-19,Smartphone,491
+2024-11-20,Smartphone,451
+2024-11-21,Smartphone,474
+2024-11-22,Smartphone,467
+2024-11-23,Smartphone,466
+2024-11-24,Smartphone,461
+2024-11-25,Smartphone,476
+2024-11-26,Smartphone,452
+2024-11-27,Smartphone,467
+2024-11-28,Smartphone,470
+2024-11-29,Smartphone,466
+2024-11-30,Smartphone,467
+2024-12-01,Smartphone,482
+2024-12-02,Smartphone,431
+2024-12-03,Smartphone,456
+2024-12-04,Smartphone,471
+2024-12-05,Smartphone,458
+2024-12-06,Smartphone,455
+2024-12-07,Smartphone,456
+2024-12-08,Smartphone,445
+2024-12-09,Smartphone,466
+2024-12-10,Smartphone,488
+2024-12-11,Smartphone,429
+2024-12-12,Smartphone,463
+2024-12-13,Smartphone,449
+2024-12-14,Smartphone,478
+2024-12-15,Smartphone,437
+2024-12-16,Smartphone,434
+2024-12-17,Smartphone,478
+2024-12-18,Smartphone,462
+2024-12-19,Smartphone,482
+2024-12-20,Smartphone,456
+2024-12-21,Smartphone,461
+2024-12-22,Smartphone,448
+2024-12-23,Smartphone,490
+2024-12-24,Smartphone,432
+2024-12-25,Smartphone,468
+2024-12-26,Smartphone,480
+2024-12-27,Smartphone,450
+2024-12-28,Smartphone,462
+2024-12-29,Smartphone,472
+2024-12-30,Smartphone,416
+2024-12-31,Smartphone,466
+2025-01-01,Smartphone,489
+2025-01-02,Smartphone,435
+2025-01-03,Smartphone,441
+2025-01-04,Smartphone,443
+2025-01-05,Smartphone,458
+2025-01-06,Smartphone,476
+2025-01-07,Smartphone,482
+2025-01-08,Smartphone,481
+2025-01-09,Smartphone,478
+2025-01-10,Smartphone,498
+2025-01-11,Smartphone,449
+2025-01-12,Smartphone,471
+2025-01-13,Smartphone,520
+2025-01-14,Smartphone,467
+2025-01-15,Smartphone,457
+2025-01-16,Smartphone,506
+2025-01-17,Smartphone,463
+2025-01-18,Smartphone,510
+2025-01-19,Smartphone,552
+2025-01-20,Smartphone,461
+2025-01-21,Smartphone,477
+2025-01-22,Smartphone,471
+2025-01-23,Smartphone,531
+2025-01-24,Smartphone,472
+2025-01-25,Smartphone,527
+2025-01-26,Smartphone,561
+2025-01-27,Smartphone,475
+2025-01-28,Smartphone,503
+2025-01-29,Smartphone,528
+2025-01-30,Smartphone,480
+2025-01-31,Smartphone,554
+2025-02-01,Smartphone,490
+2025-02-02,Smartphone,480
+2025-02-03,Smartphone,526
+2025-02-04,Smartphone,540
+2025-02-05,Smartphone,491
+2025-02-06,Smartphone,480
+2025-02-07,Smartphone,522
+2025-02-08,Smartphone,514
+2025-02-09,Smartphone,512
+2025-02-10,Smartphone,502
+2025-02-11,Smartphone,494
+2025-02-12,Smartphone,505
+2025-02-13,Smartphone,541
+2025-02-14,Smartphone,501
+2025-02-15,Smartphone,508
+2025-02-16,Smartphone,502
+2025-02-17,Smartphone,509
+2025-02-18,Smartphone,484
+2025-02-19,Smartphone,512
+2025-02-20,Smartphone,517
+2025-02-21,Smartphone,518
+2025-02-22,Smartphone,512
+2025-02-23,Smartphone,508
+2025-02-24,Smartphone,481
+2025-02-25,Smartphone,514
+2025-02-26,Smartphone,477
+2025-02-27,Smartphone,518
+2025-02-28,Smartphone,527
+2025-03-01,Smartphone,538
+2025-03-02,Smartphone,481
+2025-03-03,Smartphone,517
+2025-03-04,Smartphone,491
+2025-03-05,Smartphone,461
+2025-03-06,Smartphone,514
+2025-03-07,Smartphone,515
+2025-03-08,Smartphone,536
+2025-03-09,Smartphone,544
+2025-03-10,Smartphone,495
+2025-03-11,Smartphone,506
+2025-03-12,Smartphone,482
+2025-03-13,Smartphone,568
+2025-03-14,Smartphone,460
+2025-03-15,Smartphone,524
+2025-03-16,Smartphone,512
+2025-03-17,Smartphone,492
+2025-03-18,Smartphone,480
+2025-03-19,Smartphone,518
+2025-03-20,Smartphone,520
+2025-03-21,Smartphone,564
+2025-03-22,Smartphone,497
+2025-03-23,Smartphone,498
+2025-03-24,Smartphone,488
+2025-03-25,Smartphone,429
+2025-03-26,Smartphone,476
+2025-03-27,Smartphone,497
+2025-03-28,Smartphone,503
+2025-03-29,Smartphone,485
+2025-03-30,Smartphone,514
+2025-03-31,Smartphone,487
+2025-04-01,Smartphone,449
+2025-04-02,Smartphone,516
+2025-04-03,Smartphone,523
+2025-04-04,Smartphone,563
+2025-04-05,Smartphone,531
+2025-04-06,Smartphone,447
+2025-04-07,Smartphone,442
+2025-04-08,Smartphone,518
+2025-04-09,Smartphone,502
+2025-04-10,Smartphone,545
+2025-04-11,Smartphone,535
+2025-04-12,Smartphone,493
+2025-04-13,Smartphone,492
+2025-04-14,Smartphone,476
+2025-04-15,Smartphone,480
+2025-04-16,Smartphone,520
+2025-04-17,Smartphone,536
+2025-04-18,Smartphone,535
+2025-04-19,Smartphone,499
+2025-04-20,Smartphone,528
+2025-04-21,Smartphone,458
+2025-04-22,Smartphone,515
+2025-04-23,Smartphone,521
+2025-04-24,Smartphone,525
+2025-04-25,Smartphone,530
+2025-04-26,Smartphone,461
+2025-04-27,Smartphone,541
+2025-04-28,Smartphone,505
+2025-04-29,Smartphone,522
+2025-04-30,Smartphone,498
+2025-05-01,Smartphone,527
+2025-05-02,Smartphone,540
+2025-05-03,Smartphone,473
+2025-05-04,Smartphone,470
+2025-05-05,Smartphone,512
+2025-05-06,Smartphone,507
+2025-05-07,Smartphone,499
+2025-05-08,Smartphone,538
+2025-05-09,Smartphone,545
+2025-05-10,Smartphone,526
+2025-05-11,Smartphone,483
+2024-11-13,Streaming Device,118
+2024-11-14,Streaming Device,133
+2024-11-15,Streaming Device,120
+2024-11-16,Streaming Device,122
+2024-11-17,Streaming Device,109
+2024-11-18,Streaming Device,79
+2024-11-19,Streaming Device,126
+2024-11-20,Streaming Device,94
+2024-11-21,Streaming Device,127
+2024-11-22,Streaming Device,97
+2024-11-23,Streaming Device,119
+2024-11-24,Streaming Device,106
+2024-11-25,Streaming Device,104
+2024-11-26,Streaming Device,125
+2024-11-27,Streaming Device,108
+2024-11-28,Streaming Device,111
+2024-11-29,Streaming Device,107
+2024-11-30,Streaming Device,106
+2024-12-01,Streaming Device,103
+2024-12-02,Streaming Device,106
+2024-12-03,Streaming Device,107
+2024-12-04,Streaming Device,86
+2024-12-05,Streaming Device,110
+2024-12-06,Streaming Device,139
+2024-12-07,Streaming Device,96
+2024-12-08,Streaming Device,99
+2024-12-09,Streaming Device,92
+2024-12-10,Streaming Device,121
+2024-12-11,Streaming Device,88
+2024-12-12,Streaming Device,106
+2024-12-13,Streaming Device,102
+2024-12-14,Streaming Device,106
+2024-12-15,Streaming Device,95
+2024-12-16,Streaming Device,108
+2024-12-17,Streaming Device,133
+2024-12-18,Streaming Device,94
+2024-12-19,Streaming Device,97
+2024-12-20,Streaming Device,115
+2024-12-21,Streaming Device,104
+2024-12-22,Streaming Device,115
+2024-12-23,Streaming Device,114
+2024-12-24,Streaming Device,115
+2024-12-25,Streaming Device,106
+2024-12-26,Streaming Device,108
+2024-12-27,Streaming Device,113
+2024-12-28,Streaming Device,128
+2024-12-29,Streaming Device,123
+2024-12-30,Streaming Device,102
+2024-12-31,Streaming Device,122
+2025-01-01,Streaming Device,100
+2025-01-02,Streaming Device,107
+2025-01-03,Streaming Device,94
+2025-01-04,Streaming Device,153
+2025-01-05,Streaming Device,130
+2025-01-06,Streaming Device,85
+2025-01-07,Streaming Device,112
+2025-01-08,Streaming Device,94
+2025-01-09,Streaming Device,142
+2025-01-10,Streaming Device,96
+2025-01-11,Streaming Device,112
+2025-01-12,Streaming Device,116
+2025-01-13,Streaming Device,91
+2025-01-14,Streaming Device,110
+2025-01-15,Streaming Device,107
+2025-01-16,Streaming Device,101
+2025-01-17,Streaming Device,105
+2025-01-18,Streaming Device,102
+2025-01-19,Streaming Device,119
+2025-01-20,Streaming Device,87
+2025-01-21,Streaming Device,110
+2025-01-22,Streaming Device,101
+2025-01-23,Streaming Device,101
+2025-01-24,Streaming Device,102
+2025-01-25,Streaming Device,97
+2025-01-26,Streaming Device,112
+2025-01-27,Streaming Device,84
+2025-01-28,Streaming Device,110
+2025-01-29,Streaming Device,100
+2025-01-30,Streaming Device,103
+2025-01-31,Streaming Device,97
+2025-02-01,Streaming Device,102
+2025-02-02,Streaming Device,103
+2025-02-03,Streaming Device,91
+2025-02-04,Streaming Device,103
+2025-02-05,Streaming Device,90
+2025-02-06,Streaming Device,105
+2025-02-07,Streaming Device,99
+2025-02-08,Streaming Device,111
+2025-02-09,Streaming Device,84
+2025-02-10,Streaming Device,91
+2025-02-11,Streaming Device,103
+2025-02-12,Streaming Device,85
+2025-02-13,Streaming Device,103
+2025-02-14,Streaming Device,97
+2025-02-15,Streaming Device,108
+2025-02-16,Streaming Device,88
+2025-02-17,Streaming Device,91
+2025-02-18,Streaming Device,107
+2025-02-19,Streaming Device,91
+2025-02-20,Streaming Device,103
+2025-02-21,Streaming Device,88
+2025-02-22,Streaming Device,129
+2025-02-23,Streaming Device,92
+2025-02-24,Streaming Device,101
+2025-02-25,Streaming Device,93
+2025-02-26,Streaming Device,92
+2025-02-27,Streaming Device,98
+2025-02-28,Streaming Device,108
+2025-03-01,Streaming Device,109
+2025-03-02,Streaming Device,108
+2025-03-03,Streaming Device,112
+2025-03-04,Streaming Device,104
+2025-03-05,Streaming Device,103
+2025-03-06,Streaming Device,87
+2025-03-07,Streaming Device,119
+2025-03-08,Streaming Device,87
+2025-03-09,Streaming Device,116
+2025-03-10,Streaming Device,83
+2025-03-11,Streaming Device,110
+2025-03-12,Streaming Device,96
+2025-03-13,Streaming Device,87
+2025-03-14,Streaming Device,115
+2025-03-15,Streaming Device,98
+2025-03-16,Streaming Device,114
+2025-03-17,Streaming Device,105
+2025-03-18,Streaming Device,108
+2025-03-19,Streaming Device,107
+2025-03-20,Streaming Device,106
+2025-03-21,Streaming Device,100
+2025-03-22,Streaming Device,112
+2025-03-23,Streaming Device,110
+2025-03-24,Streaming Device,92
+2025-03-25,Streaming Device,109
+2025-03-26,Streaming Device,99
+2025-03-27,Streaming Device,117
+2025-03-28,Streaming Device,90
+2025-03-29,Streaming Device,123
+2025-03-30,Streaming Device,95
+2025-03-31,Streaming Device,90
+2025-04-01,Streaming Device,94
+2025-04-02,Streaming Device,91
+2025-04-03,Streaming Device,103
+2025-04-04,Streaming Device,98
+2025-04-05,Streaming Device,106
+2025-04-06,Streaming Device,92
+2025-04-07,Streaming Device,96
+2025-04-08,Streaming Device,107
+2025-04-09,Streaming Device,114
+2025-04-10,Streaming Device,92
+2025-04-11,Streaming Device,108
+2025-04-12,Streaming Device,117
+2025-04-13,Streaming Device,109
+2025-04-14,Streaming Device,95
+2025-04-15,Streaming Device,107
+2025-04-16,Streaming Device,92
+2025-04-17,Streaming Device,106
+2025-04-18,Streaming Device,103
+2025-04-19,Streaming Device,95
+2025-04-20,Streaming Device,101
+2025-04-21,Streaming Device,104
+2025-04-22,Streaming Device,104
+2025-04-23,Streaming Device,93
+2025-04-24,Streaming Device,102
+2025-04-25,Streaming Device,99
+2025-04-26,Streaming Device,98
+2025-04-27,Streaming Device,100
+2025-04-28,Streaming Device,103
+2025-04-29,Streaming Device,92
+2025-04-30,Streaming Device,99
+2025-05-01,Streaming Device,110
+2025-05-02,Streaming Device,109
+2025-05-03,Streaming Device,96
+2025-05-04,Streaming Device,67
+2025-05-05,Streaming Device,108
+2025-05-06,Streaming Device,112
+2025-05-07,Streaming Device,102
+2025-05-08,Streaming Device,97
+2025-05-09,Streaming Device,103
+2025-05-10,Streaming Device,93
+2025-05-11,Streaming Device,101
+2024-11-13,Subscription Service,259
+2024-11-14,Subscription Service,253
+2024-11-15,Subscription Service,262
+2024-11-16,Subscription Service,232
+2024-11-17,Subscription Service,251
+2024-11-18,Subscription Service,251
+2024-11-19,Subscription Service,287
+2024-11-20,Subscription Service,249
+2024-11-21,Subscription Service,267
+2024-11-22,Subscription Service,235
+2024-11-23,Subscription Service,279
+2024-11-24,Subscription Service,228
+2024-11-25,Subscription Service,283
+2024-11-26,Subscription Service,278
+2024-11-27,Subscription Service,257
+2024-11-28,Subscription Service,258
+2024-11-29,Subscription Service,257
+2024-11-30,Subscription Service,244
+2024-12-01,Subscription Service,229
+2024-12-02,Subscription Service,267
+2024-12-03,Subscription Service,245
+2024-12-04,Subscription Service,247
+2024-12-05,Subscription Service,254
+2024-12-06,Subscription Service,253
+2024-12-07,Subscription Service,245
+2024-12-08,Subscription Service,252
+2024-12-09,Subscription Service,255
+2024-12-10,Subscription Service,261
+2024-12-11,Subscription Service,250
+2024-12-12,Subscription Service,287
+2024-12-13,Subscription Service,244
+2024-12-14,Subscription Service,229
+2024-12-15,Subscription Service,252
+2024-12-16,Subscription Service,285
+2024-12-17,Subscription Service,267
+2024-12-18,Subscription Service,235
+2024-12-19,Subscription Service,240
+2024-12-20,Subscription Service,267
+2024-12-21,Subscription Service,223
+2024-12-22,Subscription Service,304
+2024-12-23,Subscription Service,303
+2024-12-24,Subscription Service,278
+2024-12-25,Subscription Service,265
+2024-12-26,Subscription Service,277
+2024-12-27,Subscription Service,278
+2024-12-28,Subscription Service,283
+2024-12-29,Subscription Service,233
+2024-12-30,Subscription Service,321
+2024-12-31,Subscription Service,281
+2025-01-01,Subscription Service,280
+2025-01-02,Subscription Service,307
+2025-01-03,Subscription Service,326
+2025-01-04,Subscription Service,300
+2025-01-05,Subscription Service,278
+2025-01-06,Subscription Service,311
+2025-01-07,Subscription Service,302
+2025-01-08,Subscription Service,284
+2025-01-09,Subscription Service,325
+2025-01-10,Subscription Service,382
+2025-01-11,Subscription Service,301
+2025-01-12,Subscription Service,374
+2025-01-13,Subscription Service,339
+2025-01-14,Subscription Service,342
+2025-01-15,Subscription Service,353
+2025-01-16,Subscription Service,309
+2025-01-17,Subscription Service,405
+2025-01-18,Subscription Service,296
+2025-01-19,Subscription Service,375
+2025-01-20,Subscription Service,316
+2025-01-21,Subscription Service,380
+2025-01-22,Subscription Service,307
+2025-01-23,Subscription Service,411
+2025-01-24,Subscription Service,307
+2025-01-25,Subscription Service,391
+2025-01-26,Subscription Service,298
+2025-01-27,Subscription Service,397
+2025-01-28,Subscription Service,317
+2025-01-29,Subscription Service,376
+2025-01-30,Subscription Service,317
+2025-01-31,Subscription Service,411
+2025-02-01,Subscription Service,300
+2025-02-02,Subscription Service,369
+2025-02-03,Subscription Service,343
+2025-02-04,Subscription Service,350
+2025-02-05,Subscription Service,296
+2025-02-06,Subscription Service,388
+2025-02-07,Subscription Service,311
+2025-02-08,Subscription Service,402
+2025-02-09,Subscription Service,291
+2025-02-10,Subscription Service,394
+2025-02-11,Subscription Service,312
+2025-02-12,Subscription Service,380
+2025-02-13,Subscription Service,308
+2025-02-14,Subscription Service,391
+2025-02-15,Subscription Service,309
+2025-02-16,Subscription Service,385
+2025-02-17,Subscription Service,320
+2025-02-18,Subscription Service,383
+2025-02-19,Subscription Service,302
+2025-02-20,Subscription Service,376
+2025-02-21,Subscription Service,311
+2025-02-22,Subscription Service,402
+2025-02-23,Subscription Service,291
+2025-02-24,Subscription Service,394
+2025-02-25,Subscription Service,312
+2025-02-26,Subscription Service,380
+2025-02-27,Subscription Service,308
+2025-02-28,Subscription Service,391
+2025-03-01,Subscription Service,313
+2025-03-02,Subscription Service,392
+2025-03-03,Subscription Service,307
+2025-03-04,Subscription Service,366
+2025-03-05,Subscription Service,317
+2025-03-06,Subscription Service,404
+2025-03-07,Subscription Service,305
+2025-03-08,Subscription Service,421
+2025-03-09,Subscription Service,299
+2025-03-10,Subscription Service,370
+2025-03-11,Subscription Service,321
+2025-03-12,Subscription Service,362
+2025-03-13,Subscription Service,327
+2025-03-14,Subscription Service,354
+2025-03-15,Subscription Service,304
+2025-03-16,Subscription Service,370
+2025-03-17,Subscription Service,323
+2025-03-18,Subscription Service,347
+2025-03-19,Subscription Service,300
+2025-03-20,Subscription Service,378
+2025-03-21,Subscription Service,312
+2025-03-22,Subscription Service,398
+2025-03-23,Subscription Service,308
+2025-03-24,Subscription Service,360
+2025-03-25,Subscription Service,316
+2025-03-26,Subscription Service,370
+2025-03-27,Subscription Service,333
+2025-03-28,Subscription Service,341
+2025-03-29,Subscription Service,340
+2025-03-30,Subscription Service,334
+2025-03-31,Subscription Service,336
+2025-04-01,Subscription Service,335
+2025-04-02,Subscription Service,337
+2025-04-03,Subscription Service,348
+2025-04-04,Subscription Service,310
+2025-04-05,Subscription Service,404
+2025-04-06,Subscription Service,300
+2025-04-07,Subscription Service,377
+2025-04-08,Subscription Service,302
+2025-04-09,Subscription Service,370
+2025-04-10,Subscription Service,337
+2025-04-11,Subscription Service,346
+2025-04-12,Subscription Service,313
+2025-04-13,Subscription Service,394
+2025-04-14,Subscription Service,308
+2025-04-15,Subscription Service,365
+2025-04-16,Subscription Service,316
+2025-04-17,Subscription Service,402
+2025-04-18,Subscription Service,309
+2025-04-19,Subscription Service,401
+2025-04-20,Subscription Service,300
+2025-04-21,Subscription Service,377
+2025-04-22,Subscription Service,302
+2025-04-23,Subscription Service,370
+2025-04-24,Subscription Service,337
+2025-04-25,Subscription Service,346
+2025-04-26,Subscription Service,313
+2025-04-27,Subscription Service,394
+2025-04-28,Subscription Service,308
+2025-04-29,Subscription Service,365
+2025-04-30,Subscription Service,316
+2025-05-01,Subscription Service,393
+2025-05-02,Subscription Service,310
+2025-05-03,Subscription Service,393
+2025-05-04,Subscription Service,310
+2025-05-05,Subscription Service,362
+2025-05-06,Subscription Service,322
+2025-05-07,Subscription Service,357
+2025-05-08,Subscription Service,298
+2025-05-09,Subscription Service,379
+2025-05-10,Subscription Service,311
+2025-05-11,Subscription Service,392
+2024-11-13,Tablet,368
+2024-11-14,Tablet,388
+2024-11-15,Tablet,375
+2024-11-16,Tablet,419
+2024-11-17,Tablet,378
+2024-11-18,Tablet,375
+2024-11-19,Tablet,389
+2024-11-20,Tablet,400
+2024-11-21,Tablet,387
+2024-11-22,Tablet,420
+2024-11-23,Tablet,385
+2024-11-24,Tablet,392
+2024-11-25,Tablet,396
+2024-11-26,Tablet,374
+2024-11-27,Tablet,471
+2024-11-28,Tablet,415
+2024-11-29,Tablet,374
+2024-11-30,Tablet,414
+2024-12-01,Tablet,418
+2024-12-02,Tablet,410
+2024-12-03,Tablet,408
+2024-12-04,Tablet,436
+2024-12-05,Tablet,439
+2024-12-06,Tablet,432
+2024-12-07,Tablet,405
+2024-12-08,Tablet,422
+2024-12-09,Tablet,394
+2024-12-10,Tablet,415
+2024-12-11,Tablet,421
+2024-12-12,Tablet,414
+2024-12-13,Tablet,429
+2024-12-14,Tablet,379
+2024-12-15,Tablet,422
+2024-12-16,Tablet,394
+2024-12-17,Tablet,416
+2024-12-18,Tablet,437
+2024-12-19,Tablet,435
+2024-12-20,Tablet,430
+2024-12-21,Tablet,384
+2024-12-22,Tablet,419
+2024-12-23,Tablet,419
+2024-12-24,Tablet,418
+2024-12-25,Tablet,418
+2024-12-26,Tablet,416
+2024-12-27,Tablet,423
+2024-12-28,Tablet,415
+2024-12-29,Tablet,413
+2024-12-30,Tablet,423
+2024-12-31,Tablet,395
+2025-01-01,Tablet,398
+2025-01-02,Tablet,412
+2025-01-03,Tablet,391
+2025-01-04,Tablet,400
+2025-01-05,Tablet,391
+2025-01-06,Tablet,390
+2025-01-07,Tablet,367
+2025-01-08,Tablet,430
+2025-01-09,Tablet,357
+2025-01-10,Tablet,409
+2025-01-11,Tablet,380
+2025-01-12,Tablet,382
+2025-01-13,Tablet,372
+2025-01-14,Tablet,372
+2025-01-15,Tablet,401
+2025-01-16,Tablet,403
+2025-01-17,Tablet,389
+2025-01-18,Tablet,351
+2025-01-19,Tablet,376
+2025-01-20,Tablet,368
+2025-01-21,Tablet,355
+2025-01-22,Tablet,389
+2025-01-23,Tablet,370
+2025-01-24,Tablet,374
+2025-01-25,Tablet,361
+2025-01-26,Tablet,378
+2025-01-27,Tablet,355
+2025-01-28,Tablet,383
+2025-01-29,Tablet,364
+2025-01-30,Tablet,396
+2025-01-31,Tablet,366
+2025-02-01,Tablet,413
+2025-02-02,Tablet,349
+2025-02-03,Tablet,358
+2025-02-04,Tablet,365
+2025-02-05,Tablet,371
+2025-02-06,Tablet,381
+2025-02-07,Tablet,390
+2025-02-08,Tablet,358
+2025-02-09,Tablet,357
+2025-02-10,Tablet,359
+2025-02-11,Tablet,362
+2025-02-12,Tablet,382
+2025-02-13,Tablet,384
+2025-02-14,Tablet,385
+2025-02-15,Tablet,388
+2025-02-16,Tablet,386
+2025-02-17,Tablet,379
+2025-02-18,Tablet,386
+2025-02-19,Tablet,398
+2025-02-20,Tablet,387
+2025-02-21,Tablet,406
+2025-02-22,Tablet,350
+2025-02-23,Tablet,393
+2025-02-24,Tablet,364
+2025-02-25,Tablet,418
+2025-02-26,Tablet,348
+2025-02-27,Tablet,436
+2025-02-28,Tablet,369
+2025-03-01,Tablet,392
+2025-03-02,Tablet,397
+2025-03-03,Tablet,376
+2025-03-04,Tablet,399
+2025-03-05,Tablet,362
+2025-03-06,Tablet,430
+2025-03-07,Tablet,364
+2025-03-08,Tablet,424
+2025-03-09,Tablet,433
+2025-03-10,Tablet,407
+2025-03-11,Tablet,384
+2025-03-12,Tablet,396
+2025-03-13,Tablet,413
+2025-03-14,Tablet,398
+2025-03-15,Tablet,405
+2025-03-16,Tablet,416
+2025-03-17,Tablet,397
+2025-03-18,Tablet,388
+2025-03-19,Tablet,352
+2025-03-20,Tablet,395
+2025-03-21,Tablet,424
+2025-03-22,Tablet,397
+2025-03-23,Tablet,374
+2025-03-24,Tablet,369
+2025-03-25,Tablet,362
+2025-03-26,Tablet,433
+2025-03-27,Tablet,450
+2025-03-28,Tablet,393
+2025-03-29,Tablet,385
+2025-03-30,Tablet,379
+2025-03-31,Tablet,351
+2025-04-01,Tablet,402
+2025-04-02,Tablet,407
+2025-04-03,Tablet,407
+2025-04-04,Tablet,366
+2025-04-05,Tablet,411
+2025-04-06,Tablet,364
+2025-04-07,Tablet,386
+2025-04-08,Tablet,395
+2025-04-09,Tablet,404
+2025-04-10,Tablet,419
+2025-04-11,Tablet,390
+2025-04-12,Tablet,392
+2025-04-13,Tablet,431
+2025-04-14,Tablet,392
+2025-04-15,Tablet,410
+2025-04-16,Tablet,406
+2025-04-17,Tablet,407
+2025-04-18,Tablet,392
+2025-04-19,Tablet,430
+2025-04-20,Tablet,384
+2025-04-21,Tablet,399
+2025-04-22,Tablet,394
+2025-04-23,Tablet,414
+2025-04-24,Tablet,413
+2025-04-25,Tablet,401
+2025-04-26,Tablet,425
+2025-04-27,Tablet,415
+2025-04-28,Tablet,372
+2025-04-29,Tablet,379
+2025-04-30,Tablet,402
+2025-05-01,Tablet,382
+2025-05-02,Tablet,375
+2025-05-03,Tablet,450
+2025-05-04,Tablet,373
+2025-05-05,Tablet,366
+2025-05-06,Tablet,410
+2025-05-07,Tablet,404
+2025-05-08,Tablet,384
+2025-05-09,Tablet,396
+2025-05-10,Tablet,369
+2025-05-11,Tablet,377
+2024-11-13,Wearable,321
+2024-11-14,Wearable,345
+2024-11-15,Wearable,371
+2024-11-16,Wearable,367
+2024-11-17,Wearable,337
+2024-11-18,Wearable,325
+2024-11-19,Wearable,342
+2024-11-20,Wearable,391
+2024-11-21,Wearable,346
+2024-11-22,Wearable,349
+2024-11-23,Wearable,337
+2024-11-24,Wearable,358
+2024-11-25,Wearable,325
+2024-11-26,Wearable,356
+2024-11-27,Wearable,352
+2024-11-28,Wearable,344
+2024-11-29,Wearable,363
+2024-11-30,Wearable,352
+2024-12-01,Wearable,325
+2024-12-02,Wearable,325
+2024-12-03,Wearable,350
+2024-12-04,Wearable,344
+2024-12-05,Wearable,382
+2024-12-06,Wearable,316
+2024-12-07,Wearable,354
+2024-12-08,Wearable,314
+2024-12-09,Wearable,340
+2024-12-10,Wearable,385
+2024-12-11,Wearable,360
+2024-12-12,Wearable,333
+2024-12-13,Wearable,363
+2024-12-14,Wearable,306
+2024-12-15,Wearable,374
+2024-12-16,Wearable,331
+2024-12-17,Wearable,378
+2024-12-18,Wearable,327
+2024-12-19,Wearable,360
+2024-12-20,Wearable,337
+2024-12-21,Wearable,357
+2024-12-22,Wearable,290
+2024-12-23,Wearable,354
+2024-12-24,Wearable,358
+2024-12-25,Wearable,349
+2024-12-26,Wearable,344
+2024-12-27,Wearable,405
+2024-12-28,Wearable,317
+2024-12-29,Wearable,358
+2024-12-30,Wearable,329
+2024-12-31,Wearable,375
+2025-01-01,Wearable,373
+2025-01-02,Wearable,347
+2025-01-03,Wearable,395
+2025-01-04,Wearable,351
+2025-01-05,Wearable,391
+2025-01-06,Wearable,350
+2025-01-07,Wearable,428
+2025-01-08,Wearable,362
+2025-01-09,Wearable,414
+2025-01-10,Wearable,358
+2025-01-11,Wearable,414
+2025-01-12,Wearable,348
+2025-01-13,Wearable,418
+2025-01-14,Wearable,408
+2025-01-15,Wearable,355
+2025-01-16,Wearable,394
+2025-01-17,Wearable,370
+2025-01-18,Wearable,364
+2025-01-19,Wearable,392
+2025-01-20,Wearable,374
+2025-01-21,Wearable,378
+2025-01-22,Wearable,379
+2025-01-23,Wearable,364
+2025-01-24,Wearable,404
+2025-01-25,Wearable,349
+2025-01-26,Wearable,413
+2025-01-27,Wearable,389
+2025-01-28,Wearable,350
+2025-01-29,Wearable,425
+2025-01-30,Wearable,373
+2025-01-31,Wearable,373
+2025-02-01,Wearable,381
+2025-02-02,Wearable,369
+2025-02-03,Wearable,352
+2025-02-04,Wearable,454
+2025-02-05,Wearable,346
+2025-02-06,Wearable,423
+2025-02-07,Wearable,368
+2025-02-08,Wearable,356
+2025-02-09,Wearable,399
+2025-02-10,Wearable,357
+2025-02-11,Wearable,410
+2025-02-12,Wearable,368
+2025-02-13,Wearable,337
+2025-02-14,Wearable,429
+2025-02-15,Wearable,336
+2025-02-16,Wearable,448
+2025-02-17,Wearable,368
+2025-02-18,Wearable,347
+2025-02-19,Wearable,451
+2025-02-20,Wearable,344
+2025-02-21,Wearable,382
+2025-02-22,Wearable,378
+2025-02-23,Wearable,369
+2025-02-24,Wearable,351
+2025-02-25,Wearable,455
+2025-02-26,Wearable,346
+2025-02-27,Wearable,456
+2025-02-28,Wearable,324
+2025-03-01,Wearable,395
+2025-03-02,Wearable,370
+2025-03-03,Wearable,356
+2025-03-04,Wearable,407
+2025-03-05,Wearable,353
+2025-03-06,Wearable,406
+2025-03-07,Wearable,349
+2025-03-08,Wearable,434
+2025-03-09,Wearable,303
+2025-03-10,Wearable,429
+2025-03-11,Wearable,341
+2025-03-12,Wearable,453
+2025-03-13,Wearable,341
+2025-03-14,Wearable,408
+2025-03-15,Wearable,353
+2025-03-16,Wearable,411
+2025-03-17,Wearable,386
+2025-03-18,Wearable,352
+2025-03-19,Wearable,421
+2025-03-20,Wearable,372
+2025-03-21,Wearable,368
+2025-03-22,Wearable,356
+2025-03-23,Wearable,404
+2025-03-24,Wearable,366
+2025-03-25,Wearable,448
+2025-03-26,Wearable,357
+2025-03-27,Wearable,406
+2025-03-28,Wearable,342
+2025-03-29,Wearable,386
+2025-03-30,Wearable,362
+2025-03-31,Wearable,401
+2025-04-01,Wearable,340
+2025-04-02,Wearable,415
+2025-04-03,Wearable,322
+2025-04-04,Wearable,369
+2025-04-05,Wearable,329
+2025-04-06,Wearable,430
+2025-04-07,Wearable,333
+2025-04-08,Wearable,367
+2025-04-09,Wearable,356
+2025-04-10,Wearable,388
+2025-04-11,Wearable,326
+2025-04-12,Wearable,374
+2025-04-13,Wearable,363
+2025-04-14,Wearable,372
+2025-04-15,Wearable,338
+2025-04-16,Wearable,380
+2025-04-17,Wearable,336
+2025-04-18,Wearable,357
+2025-04-19,Wearable,409
+2025-04-20,Wearable,372
+2025-04-21,Wearable,355
+2025-04-22,Wearable,373
+2025-04-23,Wearable,341
+2025-04-24,Wearable,361
+2025-04-25,Wearable,360
+2025-04-26,Wearable,394
+2025-04-27,Wearable,358
+2025-04-28,Wearable,369
+2025-04-29,Wearable,317
+2025-04-30,Wearable,361
+2025-05-01,Wearable,356
+2025-05-02,Wearable,366
+2025-05-03,Wearable,407
+2025-05-04,Wearable,360
+2025-05-05,Wearable,348
+2025-05-06,Wearable,398
+2025-05-07,Wearable,339
+2025-05-08,Wearable,364
+2025-05-09,Wearable,359
+2025-05-10,Wearable,388
+2025-05-11,Wearable,351

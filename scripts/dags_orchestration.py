@@ -6,14 +6,14 @@ from datetime import datetime
 default_args = {
     'owner': 'admin',
     'start_date': datetime(2023, 1, 1),
-    'retries': 0, # Kita set 0 dulu biar kalau gagal langsung ketahuan (merah)
+    'retries': 1, # Kita set 0 dulu biar kalau gagal langsung ketahuan (merah)
 }
 
 # --- DEFINISI DAG ---
 with DAG(
     '01_ingestion_pipeline',  # ID yang muncul di Dashboard Airflow
     default_args=default_args, 
-    schedule_interval=None,   # None = Jalan hanya kalau dipencet (Trigger)
+    schedule_interval='0 1 * * *',   # None = Jalan hanya kalau dipencet (Trigger)
     catchup=False,
     tags=['apple_store', 'ingestion', 'uas']
 ) as dag:
